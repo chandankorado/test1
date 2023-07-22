@@ -5,3 +5,7 @@ h1 {
     color: #1b1b1f;
     align-content: center;
 }
+p {
+    text-align: center;
+    color: red;
+}
